@@ -1,5 +1,8 @@
 # AI Image Reverse & Generation Tool
 
+Author: Guahunyo
+Tutorial video:[点击这里观看视频](https://www.youtube.com/watch?v=hD0BmDEHroU)
+
 ## Overview
 
 This project is a powerful tool that integrates with your browser to provide a unique image analysis and generation workflow. It allows users to right-click on any image on a webpage, automatically generate a descriptive prompt for that image, and then use that prompt to create a new set of AI-generated images.
